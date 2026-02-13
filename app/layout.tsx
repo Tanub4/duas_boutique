@@ -19,6 +19,11 @@ export const metadata: Metadata = {
     title: "Duas Boutique | Fashion Designer & Custom Tailoring in Shivamogga",
     description: "Premier fashion boutique in Shivamogga offering custom stitching, designer outfits, and alterations. Visit us at Vijay Nagar.",
     keywords: "Duas Boutique, fashion designer Shivamogga, custom tailoring, designer wear, boutique Karnataka, ladies tailor",
+    icons: {
+        icon: "/images/boutique-storefront.jpg",
+        shortcut: "/images/boutique-storefront.jpg",
+        apple: "/images/boutique-storefront.jpg",
+    },
 };
 
 export default function RootLayout({
